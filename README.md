@@ -3,6 +3,8 @@ Our submission for UCI's Video Game Development Club's 2022 Fall Game Jam.
 
 This 48 hour game jam had a theme of "Trick or Treat"
 
+Other submissions can be found here: https://itch.io/jam/vgdc-proto-game-jam-2022
+
 ## Controls:
 
 - Movement: WASD "W" to move up, "A" to move left, "D" to move right, "S" to move down
